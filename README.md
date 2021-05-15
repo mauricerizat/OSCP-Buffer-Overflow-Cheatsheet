@@ -77,7 +77,3 @@ Make sure the **struct** library is imported.
 4. Badchars: 
 5. Vulnerable module:
 6. JMP ESP address:
-                                .
-
-
-
