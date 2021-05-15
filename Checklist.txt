@@ -1,0 +1,15 @@
+Checklist:
+
+Use this to keep track of the things you'll need.
+
+1. Host address:
+
+2. Application port:
+
+3. Offset:
+
+4. Badchars:
+
+5. Vulnerable module:
+
+6. JMP ESP address: .
