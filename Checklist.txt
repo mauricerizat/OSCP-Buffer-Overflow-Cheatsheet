@@ -12,4 +12,4 @@ Use this to keep track of the things you'll need.
 
 5. Vulnerable module:
 
-6. JMP ESP address: .
+6. JMP ESP address: 
